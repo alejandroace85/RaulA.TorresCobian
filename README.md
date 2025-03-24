@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandroace85&label=Profile%20views&color=0e75b6&style=flat" alt="alejandroace85" /> </p>
 
-- 🌱 I’m currently learning **Computer Programmer/Cyber-Security**
+- 🌱 I’m currently learning **project manager for CAMP certification**
 
 - 📫 How to reach me **a-torres1234@outlook.com**
 
